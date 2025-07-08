@@ -1,0 +1,13 @@
+{
+        "name": "urdu-utils",
+        "version": "1.0.0",
+        "description": "A modern JavaScript utility library for handling Urdu text.",
+        "main": "index.js",
+        "scripts": {
+          "test": "node test/demo.js"
+        },
+        "keywords": ["urdu", "language", "text", "normalization", "diacritics", "nlp"],
+        "author": "Madood Maharvi",
+        "license": "MIT"
+      }
+      
