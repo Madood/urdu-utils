@@ -19,7 +19,7 @@
 
 ## 📦 Installation
 
-<!-- ```bash
+ ```bash
 npm install urdu-utils
 
 ## 📦 Usage
@@ -34,4 +34,4 @@ console.log(urdu.containsUrdu(text));         // true
 console.log(urdu.countWords(text));           // 8
 console.log(urdu.countUrduChars(text));       // 30+
 console.log(urdu.urduAlphabet);               // Complete array of Urdu letters
-console.log(urdu.translateToUrdu('love'));    // محبت -->
+console.log(urdu.translateToUrdu('love'));    // محبت 
