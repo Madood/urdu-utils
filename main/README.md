@@ -21,8 +21,9 @@
 
  ```bash
 npm install urdu-utils
+---
 
-## 📦 Usage
+## 📦 Usage 
 const urdu = require('urdu-utils');
 
 const text = 'آج بہت گرمی ہے، کیا آپ بھی محسوس کرتے ہیں؟';
